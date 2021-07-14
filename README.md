@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajas-walavalkar
-- 👀 I’m interested in databses
+- 👀 I’m interested in databases
 - 🌱 I’m currently learning cloud technologies
 - 💞️ I’m looking to collaborate on coders
 - 📫 How to reach me on git
